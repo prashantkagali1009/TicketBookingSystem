@@ -13,7 +13,7 @@ This is a simple Ticket Booking System using **Linked List** and **Queue** in Py
 - **Queue** → for waiting list  
 
 ## Run the Program
-1. Open terminal or VS Code  
+1. Open terminal or VS Code OR jupyter 
 2. Run this command:
    ```bash
    python ticket_booking.py
@@ -25,4 +25,4 @@ If someone cancels, the first waiting passenger gets the seat automatically.
 
 ---
 
-**Created by:** Naresh N
+**Created by:** PRASHANT PK
